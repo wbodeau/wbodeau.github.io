@@ -1,4 +1,6 @@
 
+$x = \frac{1}{2} \cdot 4$
+$$x = \frac{1}{2} \cdot 4$$
 
 ## Guide to Adding Content
 * Your repository's `README.md` file (the file you are reading now) acts like a home page. Replace its contents with whatever you want the world to see by editing the file on GitHub.
