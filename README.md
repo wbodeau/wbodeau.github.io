@@ -1,4 +1,6 @@
-**Hi class, welcome to the AOS C111/204 final project!** <img align="right" style="max-width: 220px; height: auto;" src="/assets/IMG/visualization-of-combined-cycle-power-plant.jpg">
+**Hi class, welcome to the AOS C111/204 final project!** <img align="right" src="/assets/IMG/visualization-of-combined-cycle-power-plant.jpg">
+
+
 
 
 For this project, you will be applying your skills to train a machine learning model using real-world data, then publishing a report on your own website.
